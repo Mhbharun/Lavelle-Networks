@@ -5,3 +5,7 @@ Chatter bots is an machine learning based engine which think and replay to the u
 In this repo, I have just created a simple chatterbot engine
 
 Data set are obtained from online chatterbot.(db.squlite3)
+
+Screenshot of the conversation is been uploaded (Folder: Results).
+
+
